@@ -1,0 +1,28 @@
+baseURL = 'https://Ydefrr.github.io/'
+locale = 'zh-cn'
+title = '个人手帐'
+theme = "yinyang"
+
+[params]
+description = "个人手帐/博客 - 由己" 
+disqus = "" # disqus account name
+headTitle = "Ydefrr" 
+mainSections = ["posts"] 
+postHeaderContent = "" 
+lazyImage = true
+
+[params.author]
+homepage = "https://Ydefrr.github.io/"
+name = "Ydefrr"
+
+[[params.socials]]
+name = "RSS"
+link = "/index.xml"
+
+[[params.socials]]
+link = "https://github.com/Ydefrr"
+name = "Subscribe"
+
+[[params.socials]]
+name = "About"
+link = "https://ydefrr.github.io/homepage/"
